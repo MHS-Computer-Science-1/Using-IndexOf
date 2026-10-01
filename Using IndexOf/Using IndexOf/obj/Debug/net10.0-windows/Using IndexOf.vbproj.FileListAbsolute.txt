@@ -1,0 +1,16 @@
+C:\Users\foxrw\My Drive\Courses\CS1\06 String Manipulation\New 2026\Using IndexOf\Using IndexOf\bin\Debug\net10.0-windows\Using IndexOf.exe
+C:\Users\foxrw\My Drive\Courses\CS1\06 String Manipulation\New 2026\Using IndexOf\Using IndexOf\bin\Debug\net10.0-windows\Using IndexOf.deps.json
+C:\Users\foxrw\My Drive\Courses\CS1\06 String Manipulation\New 2026\Using IndexOf\Using IndexOf\bin\Debug\net10.0-windows\Using IndexOf.runtimeconfig.json
+C:\Users\foxrw\My Drive\Courses\CS1\06 String Manipulation\New 2026\Using IndexOf\Using IndexOf\bin\Debug\net10.0-windows\Using IndexOf.dll
+C:\Users\foxrw\My Drive\Courses\CS1\06 String Manipulation\New 2026\Using IndexOf\Using IndexOf\bin\Debug\net10.0-windows\Using IndexOf.pdb
+C:\Users\foxrw\My Drive\Courses\CS1\06 String Manipulation\New 2026\Using IndexOf\Using IndexOf\obj\Debug\net10.0-windows\Using_IndexOf.Form1.resources
+C:\Users\foxrw\My Drive\Courses\CS1\06 String Manipulation\New 2026\Using IndexOf\Using IndexOf\obj\Debug\net10.0-windows\Using IndexOf.vbproj.GenerateResource.cache
+C:\Users\foxrw\My Drive\Courses\CS1\06 String Manipulation\New 2026\Using IndexOf\Using IndexOf\obj\Debug\net10.0-windows\Using IndexOf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\foxrw\My Drive\Courses\CS1\06 String Manipulation\New 2026\Using IndexOf\Using IndexOf\obj\Debug\net10.0-windows\Using IndexOf.AssemblyInfoInputs.cache
+C:\Users\foxrw\My Drive\Courses\CS1\06 String Manipulation\New 2026\Using IndexOf\Using IndexOf\obj\Debug\net10.0-windows\Using IndexOf.AssemblyInfo.vb
+C:\Users\foxrw\My Drive\Courses\CS1\06 String Manipulation\New 2026\Using IndexOf\Using IndexOf\obj\Debug\net10.0-windows\Using IndexOf.vbproj.CoreCompileInputs.cache
+C:\Users\foxrw\My Drive\Courses\CS1\06 String Manipulation\New 2026\Using IndexOf\Using IndexOf\obj\Debug\net10.0-windows\Using IndexOf.dll
+C:\Users\foxrw\My Drive\Courses\CS1\06 String Manipulation\New 2026\Using IndexOf\Using IndexOf\obj\Debug\net10.0-windows\refint\Using IndexOf.dll
+C:\Users\foxrw\My Drive\Courses\CS1\06 String Manipulation\New 2026\Using IndexOf\Using IndexOf\obj\Debug\net10.0-windows\Using IndexOf.pdb
+C:\Users\foxrw\My Drive\Courses\CS1\06 String Manipulation\New 2026\Using IndexOf\Using IndexOf\obj\Debug\net10.0-windows\Using IndexOf.genruntimeconfig.cache
+C:\Users\foxrw\My Drive\Courses\CS1\06 String Manipulation\New 2026\Using IndexOf\Using IndexOf\obj\Debug\net10.0-windows\ref\Using IndexOf.dll
